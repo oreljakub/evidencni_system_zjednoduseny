@@ -6,7 +6,6 @@ Kurz: Vývojář WWW aplikací (Python)
 Popis: Hlavní soubor projektu, který obsahuje hlavní smyčku programu a volání funkcí z ostatních souborů
 '''
 
-# koment
 
 
 #Import modulů
