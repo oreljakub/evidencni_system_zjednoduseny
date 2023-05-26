@@ -10,7 +10,6 @@ Popis: Hlavní soubor projektu, který obsahuje hlavní smyčku programu a volá
 #Import modulů
 from pojistenec import Pojistenec
 from evidencnisystem import EvidencniSystem
-from ui import UI
 from pomocne_fce import verifikace_jmena, verifikace_datumu, verifikace_telefonu, cisti, zastav
 from datetime import datetime
 
